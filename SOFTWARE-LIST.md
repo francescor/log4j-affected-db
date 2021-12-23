@@ -1919,7 +1919,7 @@ This list was initially populated using information from the following sources:
 | McAfee | Network Security Platform (NSP) | | Not Affected | | | |  | 12/20/2021 |
 | McAfee | Policy Auditor | | Not Affected | | | |  | 12/20/2021 |
 | McAfee | Threat Intelligence Exchange (TIE) |  | Affected | | [https://kc.mcafee.com/agent/index?page=content&id=SB10377](https://kc.mcafee.com/agent/index?page=content&id=SB10377) | Latest status in linked Security Bulletin | | 12/20/2021 |
-| McAfee | Web Gateway (MWG) |  | Foxed | | [https://kc.mcafee.com/agent/index?page=content&id=SB10377](https://kc.mcafee.com/agent/index?page=content&id=SB10377) | | | 12/20/2021 |
+| McAfee | Web Gateway (MWG) |  | Fixed | | [https://kc.mcafee.com/agent/index?page=content&id=SB10377](https://kc.mcafee.com/agent/index?page=content&id=SB10377) | | | 12/20/2021 |
 | Medtronic | | | Under Investigation | | [Medtronic Advisory Link](https://global.medtronic.com/xg-en/product-security/security-bulletins/log4j-vulnerabilities.html) | | | 12/21/2021 |
 | MEINBERG | | | | | [MEINBERG Information](https://www.meinbergglobal.com/english/news/meinberg-lantime-and-microsync-systems-not-at-risk-from-log4j-security-exploit.htm) | | | |
 | Memurai | | | | | [Memurai Information](https://www.memurai.com/blog/apache-log4j2-cve-2021-44228) | | | |
